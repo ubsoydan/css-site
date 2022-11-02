@@ -1,0 +1,21 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h2 {
+  color: chocolate;
+}
+.center {
+  margin: auto;
+  width: 10%;
+}
+
+hr {
+  border-color: brown;
+}
+
+li {
+  font-size: large;
+  color: maroon;
+  font-weight: 800;
+}
